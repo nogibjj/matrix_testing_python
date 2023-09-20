@@ -1,7 +1,7 @@
 # CiCd Automation Template for Python Matrix 
 ### by Titus Robin
 
-[![PythonCiCd / Python 3.5, 3.6, 3.7, 3.8](https://github.com/nogibjj/matrix_testing_python/actions/workflows/python_ci_cd.yml/badge.svg)](https://github.com/nogibjj/matrix_testing_python/actions/workflows/python_ci_cd.yml)
+[![PythonCiCd/3.8](https://github.com/nogibjj/matrix_testing_python/actions/workflows/python_ci_cd.yml/badge.svg)](https://github.com/nogibjj/matrix_testing_python/actions/workflows/python_ci_cd.yml)
 
 ---
 
